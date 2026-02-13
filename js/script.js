@@ -100,7 +100,7 @@ const cursorSpan = document.querySelector('.cursor');
 const textArray = [
     'Mobile App Developer',
     'Software Engineer',
-    'Full-Stack Developer',
+    'Digital Marketer',
     'Flutter Developer'
 ];
 
