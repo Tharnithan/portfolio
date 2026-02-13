@@ -1,0 +1,193 @@
+========================================
+HOW TO ADD YOUR PHOTOS - QUICK GUIDE
+========================================
+
+You need to add 8 images total to make your portfolio complete!
+
+========================================
+FOLDER STRUCTURE
+========================================
+
+portfolio/
+└── images/
+    ├── profile.jpg          ← ADD YOUR PROFILE PHOTO HERE
+    ├── about.jpg            ← ADD YOUR ABOUT PHOTO HERE
+    └── portfolio/
+        ├── project1.jpg     ← ADD PROJECT IMAGE 1
+        ├── project2.jpg     ← ADD PROJECT IMAGE 2
+        ├── project3.jpg     ← ADD PROJECT IMAGE 3
+        ├── project4.jpg     ← ADD PROJECT IMAGE 4
+        ├── project5.jpg     ← ADD PROJECT IMAGE 5
+        └── project6.jpg     ← ADD PROJECT IMAGE 6
+
+========================================
+STEP-BY-STEP INSTRUCTIONS
+========================================
+
+STEP 1: PREPARE YOUR PHOTOS
+----------------------------
+
+Profile Photo (profile.jpg):
+- Your headshot or professional photo
+- Recommended size: 600x600 pixels (square)
+- Format: JPG
+- File size: Less than 200KB
+
+About Photo (about.jpg):
+- Another photo of you or your work
+- Recommended size: 500x700 pixels (portrait)
+- Format: JPG
+- File size: Less than 200KB
+
+Portfolio Projects (project1.jpg to project6.jpg):
+- Screenshots of your work (social media posts, videos, designs)
+- Recommended size: 800x600 pixels (landscape)
+- Format: JPG
+- File size: Less than 200KB each
+
+
+STEP 2: RESIZE YOUR PHOTOS (if needed)
+---------------------------------------
+
+Option A - Use Online Tools:
+1. Go to: https://www.iloveimg.com/resize-image
+2. Upload your photo
+3. Set the dimensions mentioned above
+4. Download resized image
+
+Option B - Use Canva:
+1. Go to canva.com
+2. Create custom size (e.g., 600x600)
+3. Upload your photo
+4. Download as JPG
+
+Option C - Use Windows Photos App:
+1. Open photo in Photos app
+2. Click "..." menu → Resize
+3. Select "Define custom dimensions"
+4. Enter size and save
+
+
+STEP 3: RENAME YOUR PHOTOS
+---------------------------
+
+IMPORTANT: Filenames must match EXACTLY:
+
+✓ profile.jpg     (lowercase, .jpg extension)
+✓ about.jpg       (lowercase, .jpg extension)
+✓ project1.jpg    (lowercase, .jpg extension)
+✓ project2.jpg
+✓ project3.jpg
+✓ project4.jpg
+✓ project5.jpg
+✓ project6.jpg
+
+❌ NOT: Profile.JPG or profile.png or myprofile.jpg
+
+
+STEP 4: COPY PHOTOS TO FOLDERS
+-------------------------------
+
+1. Copy profile.jpg to:
+   portfolio/images/profile.jpg
+
+2. Copy about.jpg to:
+   portfolio/images/about.jpg
+
+3. Copy project1.jpg through project6.jpg to:
+   portfolio/images/portfolio/project1.jpg
+   portfolio/images/portfolio/project2.jpg
+   etc.
+
+
+STEP 5: VERIFY
+--------------
+
+After adding photos:
+1. Open index.html in your browser
+2. Refresh page (Ctrl + F5)
+3. Check that all images appear
+4. No broken image icons
+
+
+========================================
+QUICK TIPS
+========================================
+
+✓ Use high-quality, professional photos
+✓ Keep file sizes under 200KB for fast loading
+✓ Use JPG format for photos
+✓ Match exact filenames (case-sensitive!)
+✓ Compress images using tinypng.com if too large
+
+
+========================================
+TEMPORARY SOLUTION (if you don't have photos ready)
+========================================
+
+You can use placeholder images temporarily:
+
+1. Download free stock photos from:
+   - unsplash.com
+   - pexels.com
+
+2. Search for:
+   - "professional portrait" (for profile.jpg)
+   - "workspace" (for about.jpg)
+   - "social media design" (for portfolio images)
+
+
+========================================
+WHAT EACH PHOTO SHOULD SHOW
+========================================
+
+profile.jpg:
+- Professional headshot
+- Clean background
+- Good lighting
+- Smiling, confident expression
+
+about.jpg:
+- Full or upper body shot
+- You at work/creating content
+- Natural, candid style
+- Shows your personality
+
+project1.jpg - Instagram Reels Campaign:
+- Screenshot of Instagram reel you created
+- Or collage of multiple reels
+
+project2.jpg - Social Media Content Strategy:
+- Content calendar screenshot
+- Analytics dashboard
+- Strategy mockup
+
+project3.jpg - Brand Visual Identity:
+- Social media templates
+- Design showcase
+- Brand guidelines
+
+project4.jpg - TikTok Viral Series:
+- TikTok video thumbnail
+- Performance metrics
+- Video screenshots
+
+project5.jpg - Carousel Post Series:
+- Instagram carousel examples
+- Multi-page layouts
+- Educational content
+
+project6.jpg - Promotional Graphics:
+- Marketing designs
+- Event graphics
+- Promotional materials
+
+
+========================================
+NEED HELP?
+========================================
+
+See IMAGE_GUIDE.md for detailed instructions
+See QUICK_START.md for deployment steps
+
+Good luck!

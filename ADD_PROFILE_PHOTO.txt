@@ -1,0 +1,118 @@
+===============================================
+HOW TO ADD YOUR PROFILE PHOTO - SIMPLE GUIDE
+===============================================
+
+CURRENT STATUS:
+✅ Placeholder images created (so your portfolio works now!)
+⏳ Replace profile.jpg with YOUR actual photo
+
+===============================================
+TO ADD YOUR PROFILE PHOTO:
+===============================================
+
+STEP 1: Find or Take Your Photo
+--------------------------------
+- Use a professional headshot
+- Clear face, good lighting
+- Clean background preferred
+- Smiling, confident expression
+
+
+STEP 2: Prepare Your Photo
+---------------------------
+
+Option A - Use Online Resizer (EASIEST):
+1. Go to: https://www.iloveimg.com/resize-image
+2. Upload your photo
+3. Resize to: Width 600, Height 600 pixels
+4. Download the resized image
+
+
+Option B - Use Canva (FREE):
+1. Go to: https://www.canva.com
+2. Click "Create a design"
+3. Custom size: 600 x 600 pixels
+4. Upload your photo
+5. Fit to canvas
+6. Download as JPG
+
+
+Option C - Use Your Phone:
+1. Take a square photo
+2. Crop to square (1:1 ratio)
+3. Send to your computer
+
+
+STEP 3: Rename the File
+------------------------
+IMPORTANT: The file MUST be named exactly:
+profile.jpg
+
+✓ Correct: profile.jpg (lowercase)
+✗ Wrong: Profile.jpg, profile.png, my-photo.jpg
+
+
+STEP 4: Replace the Placeholder
+--------------------------------
+1. Go to this folder:
+   C:\Users\hp\Desktop\My CV (Tharani)\portfolio\images\
+
+2. You'll see a file called: profile.jpg (blue placeholder)
+
+3. DELETE the placeholder profile.jpg
+
+4. COPY your photo into the same folder
+
+5. RENAME it to: profile.jpg
+
+
+STEP 5: Check Your Portfolio
+-----------------------------
+1. Open your portfolio in browser (index.html)
+2. Press Ctrl + F5 to refresh
+3. Your photo should now appear in:
+   - Hero section (main banner)
+   - Any other places using profile image
+
+
+===============================================
+QUICK SHORTCUTS:
+===============================================
+
+Open Images Folder:
+Press Win + R, paste this, press Enter:
+explorer "C:\Users\hp\Desktop\My CV (Tharani)\portfolio\images"
+
+
+Open Portfolio:
+Double-click: index.html
+
+
+===============================================
+TIPS FOR BEST RESULTS:
+===============================================
+
+✓ Use good lighting
+✓ Face clearly visible
+✓ Professional attire
+✓ Solid background works best
+✓ File size under 200KB (compress if needed)
+
+
+===============================================
+IF YOU DON'T HAVE A PHOTO YET:
+===============================================
+
+The placeholder will work for now!
+You can replace it anytime by following the steps above.
+
+
+===============================================
+NEED MORE HELP?
+===============================================
+
+See: IMAGE_GUIDE.md (in portfolio folder)
+For detailed image instructions
+
+
+Good luck! 🎉
