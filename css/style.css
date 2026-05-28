@@ -1778,20 +1778,25 @@ body::after {
 
 .graduation-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 1rem;
-    margin-top: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    width: 100%;
+    max-width: 1000px;
+    justify-content: center;
 }
 
 .graduation-gallery img {
     width: 100%;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+    height: 320px;
+    border-radius: 16px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.18);
     object-fit: cover;
-    aspect-ratio: 1/1;
-    transition: transform 0.2s;
+    aspect-ratio: 4/3;
+    transition: transform 0.22s, box-shadow 0.22s;
 }
 
 .graduation-gallery img:hover {
-    transform: scale(1.05);
+    transform: scale(1.06);
+    box-shadow: 0 8px 32px rgba(102,126,234,0.18);
 }
