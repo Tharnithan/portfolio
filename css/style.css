@@ -48,43 +48,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-.about-funfacts,
-.about-timeline {
-  margin-top: 2rem;
+.about-content {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
 }
-
-.fun-facts {
-  list-style: none;
-  padding-left: 0;
-  margin-bottom: 1.5rem;
+.about-left { flex: 1; }
+.about-text { flex: 2; }
+@media (max-width: 900px) {
+    .about-content { flex-direction: column; }
 }
-.fun-facts li {
-  margin-bottom: 0.5em;
-  font-size: 1.05rem;
-}
-
-.timeline {
-  border-left: 2px solid #667eea;
-  list-style: none;
-  padding-left: 1em;
-}
-.timeline li {
-  margin-bottom: 1em;
-  position: relative;
-  padding-left: 1em;
-}
-.timeline li:before {
-  content: '';
-  width: 12px; height: 12px;
-  background: #667eea;
-  border-radius: 50%;
-  position: absolute;
-  left: -20px;
-  top: 2px;
-}
-.timeline span {
-  color: #a386e9;
-  font-weight: bold;
 }
 html {
     scroll-behavior: smooth;
