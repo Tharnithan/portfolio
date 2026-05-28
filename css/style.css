@@ -1771,3 +1771,27 @@ body::after {
         grid-template-columns: 1fr;
     }
 }
+
+/* ========================================
+   GRADUATION PHOTOGRAPHY GALLERY
+======================================== */
+
+.graduation-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.graduation-gallery img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    transition: transform 0.2s;
+}
+
+.graduation-gallery img:hover {
+    transform: scale(1.05);
+}
